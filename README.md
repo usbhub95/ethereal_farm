@@ -20,7 +20,7 @@
     
     - [ ] Parse plant types
       
-      - [ ] Accept blueprint input
+      - [x] Accept blueprint input
     
     - [ ] Calculate plant production
       
